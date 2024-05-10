@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > The Open AI Broker API specification is in early stages and currently still being defined. We expect lots of changes before our v1.0.0 release so treat this currently as a DRAFT.
 
-> [!INFO]
+> [!NOTE]
 > This project is not associated with "OpenAI". You can read the full name as "The Open Source AI Broker API" to show the difference to OpenAI.
 
 The Open AI Broker (or OAIB) API project aims to provide a set of standards to enable easier, faster connection for applications that want to use AI models and AI Agents.
